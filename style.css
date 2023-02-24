@@ -1,0 +1,17 @@
+h1{
+    font-size: clamp(20px, 3vw, 50px);
+}
+.cont{
+    animation: transitionIn 0.75s;
+}
+@keyframes transitionIn {
+    from{
+        opacity: 0;
+        transform:roteteX(-18deg);
+    }
+    to{
+        opacity:10;
+        transform:roteteX(-18deg);
+    }
+    
+}
