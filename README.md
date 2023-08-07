@@ -2,7 +2,7 @@
 Location: Visakhapatnam  
 Phone: 8367063098  
 Email: saikumap@gmail.com  
-LinkedIn: [linkedin.com/in/rokkamsaikumar](https://www.linkedin.com/in/rokkamsaikumar)
+LinkedIn:https://www.linkedin.com/in/rokkamsaikumar
 
 ## CAREER OBJECTIVE
 My objective is to become the best web developer in the full stack and website extraction fields and contribute my knowledge and skills to the technology industry. I am dedicated to continuous learning and improving my development skills to be at the forefront of the ever-evolving world of technology.
