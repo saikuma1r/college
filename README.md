@@ -12,7 +12,7 @@ My objective is to become the best web developer in the full stack and website e
 - Languages: Telugu (Native), English (Fluent), Hindi (Basic)
 ## EDUCATIONAL QUALIFICATION
 - MCA (Master of Computer Applications) - Dr. Lankapalli Bullayya College for PG (2023) - 80%
-- B.Sc. (MPCS) (Bachelor of Science in Mathematics, Physics, Computer Science) - VDA Degree College (2021) - 85.5%
+- B.Sc. (MPCS) (Bachelor of Science in Mathematics, Physics, Computer Science) - VDA Degree College (2021) - 81.5%
 ## PROJECTS
 1. **Teacher Feedback Form**
    - https://saikuma1r.github.io/college/tab1.html
