@@ -10,9 +10,8 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="icon" type="image/png" sizes="" href="developer.png">
 <style type="text/css">
-    
-  
-img{
+@media (min-width: 768px){
+    img{
     border-radius: 50%;
     height: 200px;
     position: absolute;
@@ -23,17 +22,55 @@ img{
     color: lavender;
     background: #3498db;
 }
-    img:hover{
+
+}    
+  
+  @media (max-width: 767px) {
+       img{
     border-radius: 50%;
-    height: 200px;
+    height: 100px;
     position: absolute;
-    border: solid #3498db 10px;
+    border: solid skyblue 10px;
     top: 0%;
     left:0%
-    width: 200px;
+    width: 100px;
     color: lavender;
     background: #3498db;
 }
+
+  }
+
+
+/* Hover effect styles for desktop screens */
+@media (min-width: 768px) {
+    img:hover {
+        border-radius: 50%;
+        height: 200px;
+        position: absolute;
+        border: solid #3498db 10px;
+        top: 0%;
+        left: 0%;
+        width: 200px;
+        color: lavender;
+        background: #3498db;
+    }
+}
+
+/* Hover effect styles for mobile screens */
+@media (max-width: 767px) {
+    img:hover {
+        border-radius: 50%;
+        height: 100px; /* Adjust the size for mobile */
+        position: absolute;
+        border: solid #3498db 5px; /* Adjust the border size for mobile */
+        top: 0%;
+        left: 0%;
+        width: 100px; /* Adjust the width for mobile */
+        color: lavender;
+        background: #3498db;
+    }
+}
+
         /* Header Styling */
         .header {
             background-color: #3498db;
